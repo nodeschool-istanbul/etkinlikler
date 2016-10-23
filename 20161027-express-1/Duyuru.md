@@ -4,7 +4,7 @@
 
 Konu | Express.js - En popüler Node.js framework
 --- | ---
-Anlatıcılar |	Yasin Aydın (https://www.linkedin.com/in/aydinyasin)
+Anlatıcılar |	Yasin Aydın (https://www.linkedin.com/in/aydinyasin)<br />Bahadır Gököz<br />İlhan Çetin<br />
 Tarih/saat	| 27 ekim 2016 Perşembe, 19:30
 Süre	|	2 saat
 Yer	|	Koç Üniversitesi Kuluçka Merkezi, Şişli (http://kworks.ku.edu.tr/contact/)
