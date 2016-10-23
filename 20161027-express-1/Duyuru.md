@@ -23,7 +23,18 @@ Yasin Aydın (https://yasinaydin.net/) - 6 yıllık sistem yöneticiliğinden so
 ## Konu içeriği
 Tamamı birkaç atölyeden oluşan bu serinin ilk bölümünde aşağıdaki konular uygulamalı olarak anlatılacaktır.
 
-
+* Node.js'e kısa bir giriş ve özet
+* Node.js kurulumu
+* Express tarihçesi ve Connect
+* Express'e giriş ve temel yapısı
+* Basit bir Express uygulaması ve kütüphanesiz Node.js eşleniği ile karşılaştırma
+* Express-way: middleware yapısı
+* Temel express modülleri
+ 
 ## Kimler Katılabilir / Katılmalı?
+* Node.js ile web sitesi/uygulaması veya API geliştirmek isteyen herkes katılabilir
+* Katılımcıların en az 1 yıl herhangi bir dille uygulama geliştirmiş olmaları tavsiye olunur
 
 ## İşleniş Şekli
+* Atölye, adından da anlaşılacağı üzere uygulamalı olarak olacaktır. Zorunlu olmamakla beraber, katılımcıların yanlarında bilgisayar getirmeleri tavsiye olunur.
+* Bu atölyede %50 teorik, %50 pratik ağırlıklı bir anlatım planlanmaktadır.
