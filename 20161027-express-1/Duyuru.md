@@ -10,6 +10,8 @@ Tarih/saat	| 27 ekim 2016 Perşembe, 19:30
 Süre	|	2 saat
 Yer	|	Koç Üniversitesi Kuluçka Merkezi, Şişli (http://kworks.ku.edu.tr/contact/)
 Düzenleyen	| NodeSchool Istanbul (http://nodeschool.ist/)
+Fiyat | Ücretsiz
+Kayıt | Meetup
 
 ## Duyurunun yapılacağı kanallar
 * NodeSchool Istanbul Meetup (https://www.meetup.com/nodeschool-istanbul/)
