@@ -4,7 +4,7 @@
 
 Konu | Express.js - En popüler Node.js framework
 --- | ---
-Anlatıcı |	Yasin Aydın (https://www.linkedin.com/in/aydinyasin)
+Anlatıcı |	Yasin Aydın ([@yasinaydin](https://github.com/yasinaydin))
 Yardımcılar | Arif Çakıroğlu<br />Bahadır Gököz<br />Doğan Öztürk<br />İlhan Çetin
 Tarih/saat	| 27 ekim 2016 Perşembe, 19:30
 Süre	|	2 saat
@@ -17,9 +17,6 @@ Düzenleyen	| NodeSchool Istanbul (http://nodeschool.ist/)
 * IstanbulCoders (https://groups.google.com/forum/#!forum/istanbul-coders)
 * KoderlerCemiyeti (https://koderlercemiyeti.slack.com/)
 * Twitter
-
-## Anlatıcı bilgileri
-Yasin Aydın (https://yasinaydin.net/) - 6 yıllık sistem yöneticiliğinden sonra 6 yıldır yazılım geliştirici ve takım lideri olarak çalışıyor. Son 3 yıldır vaktinin büyük bir kısmını Node.js’e ayırıyor. Şu anda Solvoyo’da Kıdemli Yazılım Mühendisi olarak çalışmakta. Daha önce www.zingat.com başta olmak üzere bir çok projede Node.js geliştiriciliği ve yazılım mimarlığı görevlerinde bulundu.
 
 ## Konu içeriği
 Tamamı birkaç atölyeden oluşan bu serinin ilk bölümünde aşağıdaki konular uygulamalı olarak anlatılacaktır.
@@ -39,3 +36,6 @@ Tamamı birkaç atölyeden oluşan bu serinin ilk bölümünde aşağıdaki konu
 ## İşleniş Şekli
 * Atölye, adından da anlaşılacağı üzere uygulamalı olarak olacaktır. Zorunlu olmamakla beraber, katılımcıların yanlarında bilgisayar getirmeleri tavsiye olunur.
 * Bu atölyede %50 teorik, %50 pratik ağırlıklı bir anlatım planlanmaktadır.
+
+## Anlatıcı hakkında
+Yasin Aydın (https://linkedin.com/in/aydinyasin) - 6 yıllık sistem yöneticiliğinden sonra 6 yıldır yazılım geliştirici ve takım lideri olarak çalışıyor. Son 3 yıldır vaktinin büyük bir kısmını Node.js’e ayırıyor. Şu anda Solvoyo’da Kıdemli Yazılım Mühendisi olarak çalışmakta. Daha önce www.zingat.com başta olmak üzere bir çok projede Node.js geliştiriciliği ve yazılım mimarlığı görevlerinde bulundu.
