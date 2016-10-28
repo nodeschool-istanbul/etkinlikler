@@ -18,13 +18,13 @@
 - [ ] Projeksiyon çalışıyor mu?
 - [ ] Mikrofon çalışıyor mu?
 
-#### 20 dakika önce
+## 20 dakika önce
 - [ ] Tuvalet ihtiyacını gider
 - [ ] Dişlerini fırçala
 - [ ] Kıyafetini düzelt
 - [ ] Ayakkabılarını ve çoraplarını kontrol et
 
-#### 10 dakika önce
+## 10 dakika önce
 - [ ] Bol su iç
 - [ ] Salonda ol
 - [ ] Bilgisayarını aç
