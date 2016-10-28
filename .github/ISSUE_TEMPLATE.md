@@ -27,7 +27,10 @@
 ## 10 dakika önce
 - [ ] Bol su iç
 - [ ] Salonda ol
+- [ ] Telefonunu sessize al
 - [ ] Bilgisayarını aç
+- [ ] Bilgisayarında arka planda çalışan uygulamaları kapat
+- [ ] Sunumunda ses kullanmayacaksan bilgisayarının sesini kapat
 - [ ] Sunumunu aç
 - [ ] Projeksiyon/monitörün bağlantılarını ve görüntüyü kontrol et
 - [ ] Görüntüyü salonun çeşitli yerlerinden (en ön, orta, yanlar, en arka) kontrol et
