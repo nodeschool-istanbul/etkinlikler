@@ -25,8 +25,8 @@ console.log(!null) // true
 console.log(!'') // true
 console.log(!'' == !null) // true
 console.log(!!'' == !!null) // true
-olarak görebiliriz.
 ```
+olarak görebiliriz.
 
 ## Sunumda kullandığımız/paylaştığımız sayfalar:
 - NPM: Node.js modülleri resmi sitesi: https://www.npmjs.com/
@@ -53,5 +53,3 @@ Not: İlk etkinlikte Node.js kurulumu, hazırlığı yaptığımız ve temelini 
 - Node.js > 4
 - Text editor (Sublime Text, Atom Editor, Visual Studio code, Webstorm, vb)
 uygulamaları hazır bir şekilde gelmelerini bekliyoruz.
-
-[1]: 
