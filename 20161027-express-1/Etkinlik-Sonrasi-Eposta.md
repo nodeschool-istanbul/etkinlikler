@@ -8,6 +8,7 @@ Etkinlikte ve duyurularda da belirttiğimiz gibi bu etkinlik birkaç atölyelik 
 Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere belli başlı temel modülleri kullanarak bir web sitesi, web uygulaması ve API geliştirebecek olmanız.
 Katıldığınız bu etkinlik için ExpressJs 101 diyebiliriz. Amacımız Node.js ve Express'in çalışma temellerini açıklamaktı.
 
+## Geri Bildirim
 Her etkinlikte gelen artı ve eksiklerimize dikkat ediyor ve kendimizi geliştirmek istiyoruz. Bu sebeple etkinlikle ilgili her yorumunuz bizim için çok önemli.
 Yorumlarınızı bize en hızlı Meetup grubumuz (http://www.meetup.com/nodeschool-istanbul/events/235075212/) üzerinden mesaj atarak iletebilirsiniz.
 
@@ -26,7 +27,12 @@ console.log(!'') // true
 console.log(!'' == !null) // true
 console.log(!!'' == !!null) // true
 ```
-olarak görebiliriz.
+olarak görebiliriz. Yine bonus olarak
+```js
+console.log(0 == '') // true
+console.log(undefined == null) // true
+```
+olduğunu görebiliriz. Doğru (strict) bir karşılaştırma yapmamız için `===` operatörünü kullanmalıyız.
 
 ## Sunumda kullandığımız/paylaştığımız sayfalar:
 - NPM: Node.js modülleri resmi sitesi: https://www.npmjs.com/
