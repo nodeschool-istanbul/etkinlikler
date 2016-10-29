@@ -16,13 +16,15 @@ Yaklaşık 150 kişilik salon kontejyanımız olduğu için Meetup üzerinden 20
 Bundan sonraki etkinlikleri de bir aksilik olmazsa aynı yerde yapmayı planlıyoruz.
 
 ## Düzeltme
-Sunum sırasında '' ile null'un aynı olduğunu söylemiştik. Sonradan bunun eksik olduğuna karar verdik.
+Sunum sırasında '' ile null'un aynı olduğunu söylemiştik. Sonradan bunun eksik olduğunun farkına vardık.
 Aslında Javascript'te bu iki değeri de boolean türüne çevirdiğimizde aynı cevabı alacağımızı söylemek istedik.
 Bunu da Node komut satırında (REPL) veya herhangi bir javascript dosyasında:
 ```js
+console.log(null == '') // false
 console.log(!null) // true
 console.log(!'') // true
 console.log(!'' == !null) // true
+console.log(!!'' == !!null) // true
 olarak görebiliriz.
 ```
 
