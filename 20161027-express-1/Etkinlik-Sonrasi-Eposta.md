@@ -1,7 +1,7 @@
 Merhabalar,
 
 27 ekim perşembe günü NodeSchool olarak düzenlediğimiz Express #1 atölyesine geldiğiniz için çok teşekkür ederiz.
-Bazı bilgileri hatırlatmak adına sizlere bu mesajı gönderiyoruz.
+Bazı bilgileri hatırlatmak adına sizlere bu mesajı gönderiyoruz.  
 Bu mesajın tamamını https://github.com/nodeschool-istanbul/etkinlikler/blob/master/20161027-express-1/Etkinlik-Sonrasi-Eposta.md adresinde bulabilirsiniz.
 
 ## Etkinlik konusu
