@@ -15,7 +15,7 @@ Yorumlarınızı bize en hızlı Meetup grubumuz (http://www.meetup.com/nodescho
 Yaklaşık 150 kişilik salon kontejyanımız olduğu için Meetup üzerinden 200 kişilik yer açmıştık. İlk etkinliğimize 120 nin üzerinde katılımcının geldiğini söylemekten mutluluk duyarız.
 Bundan sonraki etkinlikleri de bir aksilik olmazsa aynı yerde yapmayı planlıyoruz.
 
-## DÜzeltme
+## Düzeltme
 Sunum sırasında '' ile null'un aynı olduğunu söylemiştik. Sonradan bunun eksik olduğuna karar verdik.
 Aslında Javascript'te bu iki değeri de boolean türüne çevirdiğimizde aynı cevabı alacağımızı söylemek istedik.
 Bunu da Node komut satırında (REPL) veya herhangi bir javascript dosyasında:
@@ -24,6 +24,7 @@ console.log(!null) // true
 console.log(!'') // true
 console.log(!'' == !null) // true
 olarak görebiliriz.
+```
 
 ## Sunumda kullandığımız/paylaştığımız sayfalar:
 - NPM: Node.js modülleri resmi sitesi: https://www.npmjs.com/
