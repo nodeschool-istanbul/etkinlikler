@@ -58,3 +58,10 @@ RSVP'lerin kesinliğini sağlamak ve sivil toplum kuruluşlarına yardımda bulu
 * Atölye, adından da anlaşılacağı üzere uygulamalı olacaktır. Zorunlu olmamakla beraber, katılımcıların yanlarında bilgisayar getirmeleri tavsiye olunur.
 * Bu atölyede %20 teorik, %80 pratik ağırlıklı bir anlatım planlanmaktadır.
 
+![Github](https://raw.githubusercontent.com/arifcakiroglu/github-app/master/github.jpg)
+![Github login](https://raw.githubusercontent.com/arifcakiroglu/github-app/master/github-login.jpg)
+
+
+
+
+
