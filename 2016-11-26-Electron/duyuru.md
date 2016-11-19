@@ -51,7 +51,7 @@ RSVP'lerin kesinliğini sağlamak ve sivil toplum kuruluşlarına yardımda bulu
 
 ### Not: 
 * Yaptığınız bağışlar BKM Express üzerinden UNICEF'e aktarılacaktır.
-* İlk 30 kişiye bilgilendirme maili atılacaktır. Geri kalan bağış yapmış arkadaşlar, daha sonra yapacağımız etkinliğe bağış yapmadan katılabilecekler.
+* İlk 30 kişiye bilgilendirme maili atılacak ve buradan da bilgilendirme yapılacaktır. Geri kalan bağış yapmış arkadaşlar, daha sonra yapacağımız etkinliğe bağış yapmadan katılabilecekler.
 
 
 ## İşleniş Şekli
