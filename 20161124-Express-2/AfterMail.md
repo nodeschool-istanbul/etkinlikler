@@ -73,18 +73,15 @@ Yorumlarınızı bize en hızlı şekilde etkinliğimizin [Meetup sayfası](http
 
 ## Bir sonraki etkinlik
 
-Express 102 kod adıyla hitap edebileceğimiz 2. etkinliğimiz ilkinden tam iki hafta sonra, aynı yerde ve aynı saatte olacaktır.
-Bu haftasonu meetup üzerinden etkinliğimizi açıp duyurumuzu yapmayı planlıyoruz.
+Express #3 etkinliğimizi aynı yerde, 2 hafta sonra yapmayı planlıyoruz. Yer ve tarih kesinleşince Meetup üzerinden duyuru yapacağız.
 
-Konu listesini aşağıdaki gibi planlıyoruz (güncellenebilir)
-- HTTP methodları için Express'i kullanmak
-- Basit bir form eklemek ve veri POST etmek
-- Bower ile Express kullanımı
-- repsonse.render ile sayfaya parametre göndermek
-- Nunjucks şablon motoruna giriş, layout'lar, partial'lar, filter'lar ve konfigürasyon
-- Belli başlı express middleware'leri
-
-Not: İlk etkinlikte Node.js kurulumu, hazırlığı yaptığımız ve temelini anlattığımız için, bir sonraki etkinliğe gelecek katılımcıların aşağıdaki uygulamaları kurulu bir şekilde gelmelerini bekliyoruz:
-- Git (Windows için zorunlu)
-- Node.js > 4
-- Text editor (Sublime Text, Atom Editor, Visual Studio code, Webstorm, vb)
+Anlatmayı planladığımız konular şunlardır:
+- Redis kurulumu ve Node.js'te kullanma
+ - Session'ları Redis'te tutmak
+- MongoDB kurulumu
+ - ODM kavramı, Mongoose ODM modülü ve Mongo modülü ile karşılaştırma
+ - Şema ve model kavramları
+ - Uygulama modelimizi oluşturmak
+- Kayıt ol ekranı eklenmesi
+- Giriş yap ekranının MongoDB'ye bağlanması
+- MongoDB Relation'ları
