@@ -12,12 +12,18 @@ Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere bel
 ## Etkinlikte işlediğimiz konuların özeti
 * Geçen haftanın özeti
 * Express'in diğer framework'lerden farkı
-* Express'te Middlewareler, route'lar, controller'lar
+* Express'te middlewareler, route'lar, controller'lar
  * Middleware için `app.use` veya HTTP-verbs/methods için `app.get`, `app.post`, `app.put` vs..
  * Middleware ve controller'ın `request`, `response`, `next` ve `error` parametreleri
- * Middleware'deki bir bağlantının `response.end()`, `response.render()` veya `response.redirect()` ile sonlandırılması 
-* Nunjucks template engine, 
-* Modüler uygulama
+ * Middleware'e gelen bir isteğin `response.end()`, `response.render()` veya `response.redirect()` ile sonlandırılması 
+ * Node.js'te server-side uygulama akış şeması
+* Nunjucks template engine
+ * Uygulamaya middleware olarak ekleme
+ * **Template**, **Layout** ve **Partial/Component** kavramı
+ * `{% extend` ve `{% include` ile layout ve partial kullanımı, `{% block` kavramı
+ * 
+
+ * Modüler uygulama
  * Requre ve module exports
  * app i bölmek route ve middlewa
  * render ı bölmek
