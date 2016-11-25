@@ -1,7 +1,9 @@
 Merhabalar,
 
-27 ekim perşembe günü NodeSchool olarak düzenlediğimiz Express #2 atölyesine geldiğiniz için çok teşekkür ederiz.
-Bazı bilgileri hatırlatmak adına sizlere bu mesajı gönderiyoruz.  
+24 kasım perşembe günü [NodeSchool Istanbul](http://nodeschool.ist/) olarak düzenlediğimiz Express #2 atölyesine geldiğiniz için çok teşekkür ederiz.
+
+Bazı bilgileri hatırlatmak adına sizlere bu mesajı gönderiyoruz.
+
 Bu mesajın tamamını https://github.com/nodeschool-istanbul/etkinlikler/blob/master/20161124-Express-2/AfterMail.md adresinde bulabilirsiniz.
 
 ## Etkinlik Serisi
@@ -27,29 +29,12 @@ Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere bel
 
 ## Geri Bildirim
 Her etkinlikte gelen artı ve eksiklerimize dikkat ediyor ve kendimizi geliştirmek istiyoruz. Bu sebeple etkinlikle ilgili her yorumunuz bizim için çok önemli.
-Yorumlarınızı bize en hızlı Meetup grubumuz (http://www.meetup.com/nodeschool-istanbul/events/235075212/) üzerinden mesaj atarak iletebilirsiniz.
+Yorumlarınızı bize en hızlı şekilde etkinliğimizin [Meetup sayfası](https://www.meetup.com/nodeschool-istanbul/events/235619166/) üzerinden mesaj atarak iletebilirsiniz.
 
 ## Katılım
-Salonumuzun kapasitesi 150 kişilik olduğu için Meetup üzerinden 200 kişilik yer açmıştık. Katılımdan bir saat önce tüm başvurular dolmuştu. İlk etkinliğimize 120 nin üzerinde katılımcının geldiğini söylemekten mutluluk duyarız.
-Bundan sonraki etkinlikleri de bir aksilik olmazsa aynı yerde yapmayı planlıyoruz.
+Salonumuzun kapasitesi 150 kişilik olduğu için Meetup üzerinden 200 kişilik yer açmıştık. Meetup üzerinden **105** kişi geleceğini bildirmişti. Etkinliğimize **40**ın üzerinde kişinin geldiğini söylemekten mutluluk duyarız.
 
-## Düzeltme
-Sunum sırasında `''` ile `null` un aynı olduğunu söylemiştik. Sonradan bunun eksik olduğunun farkına vardık.
-Aslında Javascript'te bu iki değeri de boolean türüne çevirdiğimizde aynı cevabı alacağımızı söylemek istedik.
-Bunu da Node komut satırında (REPL) veya herhangi bir javascript dosyasında
-```js
-console.log(null == '') // false
-console.log(!null) // true
-console.log(!'') // true
-console.log(!'' == !null) // true
-console.log(!!'' == !!null) // true
-```
-yazarak görebiliriz. Yine bonus olarak
-```js
-console.log(0 == '') // true
-console.log(undefined == null) // true
-```
-olduğunu görebiliriz. Doğru (strict) bir karşılaştırma yapmamız için `===` operatörünü kullanmalıyız.
+Etkinlik saatinde aynı zamanda maç olduğu için etkinliğimize katılamayanlar oldu. Gelecekteki etkinliklerimizi planlarken bunu da göz önünde bulunduracağız :)
 
 ## Sunumda kullandığımız/paylaştığımız sayfalar:
 - NPM: Node.js modülleri resmi sitesi: https://www.npmjs.com/
