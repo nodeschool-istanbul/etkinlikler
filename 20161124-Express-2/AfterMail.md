@@ -34,6 +34,8 @@ Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere bel
  * Layout dosyasına bootstrap javascript ve css'lerini eklemek
  * `app.use(express.static())` middleware'inin eklenmesi ve `bower_components` klasörünün yayınlanması
 * Cookie ve session
+ * Login ve loginPost sayfalarının, controller ve template'lerinin oluşturulması
+ * Cookie ve session'ların eklenmesi
 
 ## Geri Bildirim
 
