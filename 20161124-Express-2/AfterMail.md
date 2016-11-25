@@ -48,17 +48,18 @@ Salonumuzun kapasitesi 150 kişilik olduğu için Meetup üzerinden 200 kişilik
 
 Etkinlik saatinde aynı zamanda maç olduğu için etkinliğimize katılamayanlar oldu. Gelecekteki etkinliklerimizi planlarken bunu da göz önünde bulunduracağız :)
 
+## Etkinlik videosu
+
+Henüz bir video-kayıt ekipmanımız olmadığı için etkinliğin kaydını yapamıyoruz. Eğer sizde kayıp ekipmanı varsa bizimle iletişime geçerek yardım edebilirsiniz.
+
 ## Sunumda kullandığımız/paylaştığımız sayfalar:
 
-- NPM: Node.js modülleri resmi sitesi: https://www.npmjs.com/
-- NodeJs modüllerini aramak için kullandığımız sitelerden biri: http://www.npmsearch.com/
-- Programlama dillerinin modül sayıları karşılaştırması: http://www.modulecounts.com/
 - Node.js Frameworkleri listesi: https://node.ist/docs/nodejs-frameworks
-- Node.js Şablon motorları listesi: https://node.ist/docs/nodejs-template-engines
-- Express.js kendi sitesi: http://expressjs.com/
-- Express.js'de route lar: http://expressjs.com/en/guide/routing.html
-- Express.js'in NPM'deki paket sayfası: https://www.npmjs.com/package/express
 - Kullandığımız şablon motoru Mozilla Nunjucks'ın sitesi: https://mozilla.github.io/nunjucks/
+- express static
+- cookie
+- express session
+- istakip
 
 ## Bir sonraki etkinlik
 Express 102 kod adıyla hitap edebileceğimiz 2. etkinliğimiz ilkinden tam iki hafta sonra, aynı yerde ve aynı saatte olacaktır.
