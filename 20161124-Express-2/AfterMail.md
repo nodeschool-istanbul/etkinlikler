@@ -1,12 +1,11 @@
 Merhabalar,
 
-24 kasım perşembe günü [NodeSchool Istanbul](http://nodeschool.ist/) olarak düzenlediğimiz Express #2 atölyesine geldiğiniz için çok teşekkür ederiz.
-
-Bazı bilgileri hatırlatmak adına sizlere bu mesajı gönderiyoruz.
+24 kasım perşembe günü [NodeSchool Istanbul](http://nodeschool.ist/) olarak düzenlediğimiz Express #2 atölyesine geldiğiniz için çok teşekkür ederiz. Sizlere bazı bilgileri hatırlatmak adına bu mesajı gönderiyoruz.
 
 Bu mesajın tamamını https://github.com/nodeschool-istanbul/etkinlikler/blob/master/20161124-Express-2/AfterMail.md adresinde bulabilirsiniz.
 
 ## Etkinlik Serisi
+
 Etkinlikte ve duyurularda da belirttiğimiz gibi bu etkinlik birkaç atölyelik bir seriden oluşacaktır.
 Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere belli başlı temel modülleri kullanarak bir web sitesi, web uygulaması ve API geliştirebilecek kadar Node.js ve Express bilmeniz.
 
@@ -14,15 +13,14 @@ Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere bel
 * Geçen haftanın özeti
 * Express'in diğer framework'lerden farkı
 * Express'te Middlewareler, route'lar, controller'lar
-  * Middleware için `app.use` veya HTTP-verbs/methods için `app.get`, `app.post`, `app.put` vs..
-  * Middleware ve controller'ın `request`, `response`, `next` ve `error` parametreleri
-  * Middleware'deki bir bağlantının `response.end()`, `response.render()` veya `response.redirect()` ile sonlandırılması
-  
+ * Middleware için `app.use` veya HTTP-verbs/methods için `app.get`, `app.post`, `app.put` vs..
+ * Middleware ve controller'ın `request`, `response`, `next` ve `error` parametreleri
+ * Middleware'deki bir bağlantının `response.end()`, `response.render()` veya `response.redirect()` ile sonlandırılması 
 * Nunjucks template engine, 
 * Modüler uygulama
-  * Requre ve module exports
-  app i bölmek route ve middlewa
-  render ı bölmek
+ * Requre ve module exports
+ * app i bölmek route ve middlewa
+ * render ı bölmek
 * bower ve statik ve bootstrap
 * login post ve verify ı
 * cookie ve session 
