@@ -20,10 +20,11 @@ Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere bel
 * Nunjucks template engine
  * Uygulamaya middleware olarak ekleme
  * **Template**, **Layout** ve **Partial/Component** kavramı
- * `{% extend` ve `{% include` ile layout ve partial kullanımı, `{% block` kavramı
- * sadsada
- * Modüler uygulama
- * Requre ve module exports
+ * `{% extend "..." %}` ve `{% include "..." %}` ile layout ve partial kullanımı, `{% block ... %}...{% endblock %}` kavramı
+* Node.js modüllerini çağırmak (`require`), modül haline getirmek (`module.exports`) ve `path` ile relative/full path kavramı
+* Uygulamayı bölmek
+ * `app.js`'deki *middleware* ve **route**'ları ayırmak
+ * `/lib/render.js` ile render'ı merkezileştirmek
  * app i bölmek route ve middlewa
  * render ı bölmek
 * bower ve statik ve bootstrap
