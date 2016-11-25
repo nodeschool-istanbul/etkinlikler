@@ -56,9 +56,8 @@ Etkinlik saatinde aynı zamanda maç olduğu için etkinliğimize katılamayanla
 
 ## Etkinlik materyalleri
 
-Kodlar
-sunum dosyası
-
+* Etkinlikte yazdığımız örnek uygulamayı https://github.com/nodeschool-istanbul/express-2 adresinde bulabilirsiniz.
+* Etkinliğin başında kullandığımız sunumu https://github.com/nodeschool-istanbul/etkinlikler/tree/master/20161124-Express-2 adresinde bulabilirsiniz.
 
 ## Etkinlik fotoğrafları ve videosu
 
