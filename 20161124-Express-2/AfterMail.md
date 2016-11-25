@@ -10,6 +10,7 @@ Etkinlikte ve duyurularda da belirttiğimiz gibi bu etkinlik birkaç atölyelik 
 Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere belli başlı temel modülleri kullanarak bir web sitesi, web uygulaması ve API geliştirebilecek kadar Node.js ve Express bilmeniz.
 
 ## Etkinlikte işlediğimiz konuların özeti
+
 * Geçen haftanın özeti
 * Express'in diğer framework'lerden farkı
 * Express'te middlewareler, route'lar, controller'lar
@@ -17,6 +18,7 @@ Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere bel
  * Middleware ve controller'ın `request`, `response`, `next` ve `error` parametreleri
  * Middleware'e gelen bir isteğin `response.end()`, `response.render()` veya `response.redirect()` ile sonlandırılması
  * Node.js'te server-side uygulama akış şeması
+ * Middleware sırası
 * Nunjucks template engine
  * Uygulamaya middleware olarak ekleme
  * **Template**, **Layout** ve **Partial/Component** kavramı
@@ -25,22 +27,27 @@ Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere bel
 * Uygulamayı bölmek
  * `app.js`'deki *middleware* ve **route**'ları ayırmak
  * `/lib/render.js` ile render'ı merkezileştirmek
- * app i bölmek route ve middlewa
- * render ı bölmek
-* bower ve statik ve bootstrap
-* login post ve verify ı
-* cookie ve session 
+* Bower ve bootstrap
+ * Projeye `bower init` ile Bower eklemek
+ * `bower install --save bootstrap` ile bootstrap kurulumu
+ * `.gitignore` dosyasına `bower_components` klasörünü eklemek
+ * Layout dosyasına bootstrap javascript ve css'lerini eklemek
+ * `app.use(express.static())` middleware'inin eklenmesi ve `bower_components` klasörünün yayınlanması
+* Cookie ve session
 
 ## Geri Bildirim
+
 Her etkinlikte gelen artı ve eksiklerimize dikkat ediyor ve kendimizi geliştirmek istiyoruz. Bu sebeple etkinlikle ilgili her yorumunuz bizim için çok önemli.
 Yorumlarınızı bize en hızlı şekilde etkinliğimizin [Meetup sayfası](https://www.meetup.com/nodeschool-istanbul/events/235619166/) üzerinden mesaj atarak iletebilirsiniz.
 
 ## Katılım
+
 Salonumuzun kapasitesi 150 kişilik olduğu için Meetup üzerinden 200 kişilik yer açmıştık. Meetup üzerinden **105** kişi geleceğini bildirmişti. Etkinliğimize **40**ın üzerinde kişinin geldiğini söylemekten mutluluk duyarız.
 
 Etkinlik saatinde aynı zamanda maç olduğu için etkinliğimize katılamayanlar oldu. Gelecekteki etkinliklerimizi planlarken bunu da göz önünde bulunduracağız :)
 
 ## Sunumda kullandığımız/paylaştığımız sayfalar:
+
 - NPM: Node.js modülleri resmi sitesi: https://www.npmjs.com/
 - NodeJs modüllerini aramak için kullandığımız sitelerden biri: http://www.npmsearch.com/
 - Programlama dillerinin modül sayıları karşılaştırması: http://www.modulecounts.com/
