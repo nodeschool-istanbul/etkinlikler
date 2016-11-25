@@ -53,9 +53,7 @@ Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere bel
 * Etkinlikte yazdığımız örnek uygulamayı https://github.com/nodeschool-istanbul/express-2 adresinde bulabilirsiniz.
 * Etkinliğin başında kullandığımız sunumu https://github.com/nodeschool-istanbul/etkinlikler/tree/master/20161124-Express-2 adresinde bulabilirsiniz.
 
-## Etkinlik fotoğrafları ve videosu
-
-Henüz bir video-kayıt ekipmanımız olmadığı için etkinliğin kaydını yapamıyoruz. Eğer sizde kayıp ekipmanı varsa bizimle iletişime geçerek yardım edebilirsiniz.
+## Etkinlik fotoğrafları
 
 Çektiğimiz fotoğrafları [Meetup sayfamız](https://www.meetup.com/nodeschool-istanbul/events/235619166/) a yükleyeceğiz. Sizin de çektiğiniz fotoğraf ve videoları buraya yüklerseniz çok mutlu oluruz.
 
