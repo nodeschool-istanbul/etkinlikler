@@ -9,6 +9,12 @@ Bu mesajın tamamını https://github.com/nodeschool-istanbul/etkinlikler/blob/m
 Etkinlikte ve duyurularda da belirttiğimiz gibi bu etkinlik birkaç atölyelik bir seriden oluşacaktır.
 Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere belli başlı temel modülleri kullanarak bir web sitesi, web uygulaması ve API geliştirebilecek kadar Node.js ve Express bilmeniz.
 
+## Katılım
+
+Salonumuzun kapasitesi 150 kişilik olduğu için Meetup üzerinden 200 kişilik yer açmıştık. Meetup üzerinden **105** kişi geleceğini bildirmişti. Etkinliğimize **40**ın üzerinde kişinin geldiğini söylemekten mutluluk duyarız.
+
+Etkinlik saatinde aynı zamanda maç olduğu için etkinliğimize katılamayanlar oldu. Gelecekteki etkinliklerimizi planlarken bunu da göz önünde bulunduracağız :)
+
 ## Etkinlikte işlediğimiz konuların özeti
 
 * Geçen haftanın özeti
@@ -35,33 +41,38 @@ Amacımız, serinin sonunda Node.js üzerinde başta Express.js olmak üzere bel
  * `app.use(express.static())` middleware'inin eklenmesi ve `bower_components` klasörünün yayınlanması
 * Cookie ve session
  * Login ve loginPost sayfalarının, controller ve template'lerinin oluşturulması
- * Cookie ve session'ların eklenmesi
+ * Cookie ve session'ların çalışma mantığı ve eklenmesi
+ * Body Parser ile form bilgilerinin alınması
+
+## Sunumda kullandığımız/paylaştığımız sayfalar:
+
+- Node.js Frameworkleri listesi: https://node.ist/docs/nodejs-frameworks
+- Kullandığımız şablon motoru Mozilla Nunjucks'ın sitesi: https://mozilla.github.io/nunjucks/
+- `cookie-parser` modülü: https://github.com/expressjs/cookie-parser
+- `express-session` modülü: https://github.com/expressjs/session
+- `body-parser` modülü: https://github.com/expressjs/body-parser
+- `express.static()` metodu: https://expressjs.com/en/starter/static-files.html   
+- İştakip uygulaması adresi: https://github.com/nodeschool-istanbul/istakip
+
+## Etkinlik materyalleri
+
+Kodlar
+sunum dosyası
+
+
+## Etkinlik fotoğrafları ve videosu
+
+Henüz bir video-kayıt ekipmanımız olmadığı için etkinliğin kaydını yapamıyoruz. Eğer sizde kayıp ekipmanı varsa bizimle iletişime geçerek yardım edebilirsiniz.
+
+Çektiğimiz fotoğrafları [Meetup sayfamız](https://www.meetup.com/nodeschool-istanbul/events/235619166/) a yükleyeceğiz. Sizin de çektiğiniz fotoğraf ve videoları buraya yüklerseniz çok mutlu oluruz.
 
 ## Geri Bildirim
 
 Her etkinlikte gelen artı ve eksiklerimize dikkat ediyor ve kendimizi geliştirmek istiyoruz. Bu sebeple etkinlikle ilgili her yorumunuz bizim için çok önemli.
 Yorumlarınızı bize en hızlı şekilde etkinliğimizin [Meetup sayfası](https://www.meetup.com/nodeschool-istanbul/events/235619166/) üzerinden mesaj atarak iletebilirsiniz.
 
-## Katılım
-
-Salonumuzun kapasitesi 150 kişilik olduğu için Meetup üzerinden 200 kişilik yer açmıştık. Meetup üzerinden **105** kişi geleceğini bildirmişti. Etkinliğimize **40**ın üzerinde kişinin geldiğini söylemekten mutluluk duyarız.
-
-Etkinlik saatinde aynı zamanda maç olduğu için etkinliğimize katılamayanlar oldu. Gelecekteki etkinliklerimizi planlarken bunu da göz önünde bulunduracağız :)
-
-## Etkinlik videosu
-
-Henüz bir video-kayıt ekipmanımız olmadığı için etkinliğin kaydını yapamıyoruz. Eğer sizde kayıp ekipmanı varsa bizimle iletişime geçerek yardım edebilirsiniz.
-
-## Sunumda kullandığımız/paylaştığımız sayfalar:
-
-- Node.js Frameworkleri listesi: https://node.ist/docs/nodejs-frameworks
-- Kullandığımız şablon motoru Mozilla Nunjucks'ın sitesi: https://mozilla.github.io/nunjucks/
-- express static
-- cookie
-- express session
-- istakip
-
 ## Bir sonraki etkinlik
+
 Express 102 kod adıyla hitap edebileceğimiz 2. etkinliğimiz ilkinden tam iki hafta sonra, aynı yerde ve aynı saatte olacaktır.
 Bu haftasonu meetup üzerinden etkinliğimizi açıp duyurumuzu yapmayı planlıyoruz.
 
@@ -77,4 +88,3 @@ Not: İlk etkinlikte Node.js kurulumu, hazırlığı yaptığımız ve temelini 
 - Git (Windows için zorunlu)
 - Node.js > 4
 - Text editor (Sublime Text, Atom Editor, Visual Studio code, Webstorm, vb)
-
