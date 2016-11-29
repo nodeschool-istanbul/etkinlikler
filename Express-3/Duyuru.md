@@ -1,4 +1,5 @@
 github repo info
+öncesinde gerekenler
 
 # Express Atölyesi #1
 
