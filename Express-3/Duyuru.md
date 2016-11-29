@@ -1,3 +1,5 @@
+github repo info
+
 # Express Atölyesi #1
 
 ## Etkinlik Bilgileri
