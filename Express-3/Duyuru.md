@@ -1,5 +1,13 @@
+# Konular
+* redis session
+* redis api cache
+* mongodb api
+* dotenv config
+
 github repo info
 öncesinde gerekenler
+
+***
 
 # Express Atölyesi #1
 
