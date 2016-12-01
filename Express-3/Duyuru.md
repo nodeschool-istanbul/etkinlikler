@@ -3,6 +3,7 @@
 * redis api cache
 * mongodb api
 * dotenv config
+* sinon
 
 github repo info
 öncesinde gerekenler
